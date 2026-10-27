@@ -1,6 +1,6 @@
 # FIH-Korean-Translator
 
-| Keybinds | Feature |
+| Keybind | Feature |
 | :--- | :--- |
 | Ctrl + K | Toggle translator on and off in game, and turning it off puts it back to English. |
 
